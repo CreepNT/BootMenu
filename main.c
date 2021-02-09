@@ -7,8 +7,7 @@
 #include <psp2kern/power.h> 
 #include <psp2kern/ctrl.h> 
 #include <psp2kern/display.h>
-#include <psp2kern/io/fcntl.h> 
-#include <psp2kern/io/dirent.h> 
+#include <psp2kern/kernel/iofilemgr.h>
 #include <psp2kern/udcd.h>
 #include <psp2kern/sblaimgr.h> 
 #include <psp2kern/kernel/cpu.h> 

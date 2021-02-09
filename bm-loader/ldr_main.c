@@ -6,7 +6,7 @@
 #include <psp2kern/kernel/threadmgr.h>
 #include <psp2kern/kernel/sysmem.h>
 #include <psp2kern/lowio/pervasive.h>
-#include <psp2kern/io/fcntl.h>
+#include <psp2kern/kernel/iofilemgr.h>
 #include <psp2kern/display.h>
 #include <psp2kern/power.h>
 #include <psp2kern/syscon.h>
